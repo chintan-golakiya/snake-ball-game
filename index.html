@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Snake and Ball</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="jQuery.min.js"></script>
+    <script src="jCanvas.min.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="flexed">
+    <div class="content">
+        <canvas id="gameArea" width="576" height="578">
+        </canvas>
+    </div>
+    <div class="sidebar">
+        <div id="gameover" class="alert">Game Over</div>
+        <div id="PlayPause" class="play">Play</div>
+        <div class="show">Score :  <span id="score">0</span></div>
+        <div>
+          <div class="action" id="up"> UP </div>
+          <br>
+          <div class="action" id="left"> LEFT </div>
+          <div class="action" id="right"> RIGHT </div>
+          <br>
+          <div class="action" id="down"> DOWN </div>
+        </div>
+    </div>
+    </div>
+</body>
+</html>
