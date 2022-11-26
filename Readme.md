@@ -44,7 +44,7 @@
 ### Screenshots
 
 <div align="center"> 
-  <img src="https://github.com/chintan-golakiya/snake-ball-game/screenshot.PNG" alt="screenshot" />
+  <img src="https://github.com/chintan-golakiya/snake-ball-game/blob/master/screenshot.PNG" alt="screenshot" />
 </div>
 
 <!-- TechStack -->
